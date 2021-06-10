@@ -2,7 +2,7 @@
 title: GATOS - DIAMOND
 order: 0
 seo:
-  title: ''
+  title: 'GATOS - DIAMOND'
   description: ''
   robots: []
   extra: []
