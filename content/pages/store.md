@@ -20,7 +20,7 @@ sections:
     image: images/brooke-cagle-EyCEX1e9EiY-unsplash.jpg
     background_image: images/noun_Dog_3587160-7.png
     cta:
-      title: Discover
+      title: UBICACIONES
       url: /store
       style: secondary
       arrow: true
