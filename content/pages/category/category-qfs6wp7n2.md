@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
+title: PERROS - PRO PLAN
 order: 0
 seo:
-  title: ''
+  title: 'PERROS - PRO PLAN'
   description: ''
   robots: []
   extra: []
