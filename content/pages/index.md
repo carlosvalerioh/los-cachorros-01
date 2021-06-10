@@ -28,7 +28,6 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
-      - content/pages/products/product-pyiwrzs4n.md
       - content/pages/products/product-mx6iieg2q.md
       - content/pages/products/product-9zfqgp1op.md
       - content/pages/products/product-m7k3kdn28.md
