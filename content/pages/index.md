@@ -45,7 +45,7 @@ sections:
           terminaban pronto, ahora pido bultos de comida más grandes y me rinden
           mucho más tiempo.
       - author:
-          name: Major Payne
+          name: MARTA
           location: 'VA, USA'
         text: >-
           Me gusta encontrar todos los tipos de alimentos y de mejores marcas a
