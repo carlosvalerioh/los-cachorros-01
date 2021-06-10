@@ -21,7 +21,7 @@ sections:
     mapUrl: 'https://goo.gl/maps/1pKXedEw85Bh7dxs7'
   - section_id: lorem-ipsum
     title: Conoce todas nuestras ubicaciones
-    subtitle: lorem-ipsum
+    subtitle: 10 tiendas en la CDMX
     cta:
       title: lorem-ipsum
       url: '#'
