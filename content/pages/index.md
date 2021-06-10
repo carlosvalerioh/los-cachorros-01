@@ -30,6 +30,7 @@ sections:
       - content/pages/products/plant7.md
       - content/pages/products/product-pyiwrzs4n.md
       - content/pages/products/product-mx6iieg2q.md
+      - content/pages/products/product-9zfqgp1op.md
   - type: testimonials_section
     section_id: testimonials_section
     title: RESEÑAS
