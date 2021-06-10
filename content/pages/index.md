@@ -48,8 +48,9 @@ sections:
           name: Major Payne
           location: 'VA, USA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Me gusta encontrar todos los tipos de alimentos y de mejores marcas a
+          un mejor precio. Así mi mascota come mejor alimento y es más accesible
+          para mi
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
