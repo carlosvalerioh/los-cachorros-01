@@ -61,14 +61,14 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: Los Cachorros
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Los Cachorros
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
@@ -80,7 +80,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: Los Cachorros
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
