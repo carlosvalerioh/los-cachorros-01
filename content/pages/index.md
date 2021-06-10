@@ -29,11 +29,6 @@ sections:
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
       - content/pages/products/product-pyiwrzs4n.md
-  - type: featured_categories_section
-    section_id: featured_categories_section
-    featured_categories:
-      - content/pages/category/bigplants.md
-      - content/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
     title: RESEÑAS
