@@ -1,8 +1,8 @@
 ---
-title: DIMOND
+title: GATOS - MININO
 order: 0
 seo:
-  title: 'DIMOD'
+  title: 'GATOS - MININO'
   description: ''
   robots: []
   extra: []
