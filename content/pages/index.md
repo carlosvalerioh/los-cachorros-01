@@ -14,7 +14,7 @@ sections:
       Todas las marcas de alimentos y alimentos premium para tus mascotas a los
       mejores precios.
     actions:
-      - title: See all items
+      - title: CATÁLOGO
         url: /store
         arrow: true
         style: primary
