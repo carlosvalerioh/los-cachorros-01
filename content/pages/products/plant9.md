@@ -8,7 +8,7 @@ default_thumbnail_image: images/Royal Canin Labrador Puppy.jpg
 default_original_image: images/fierce-iron.jpg
 featured: true
 order: 9
-category: content/pages/category/category-z4idr47we.md
+category: content/pages/category/PERROS-ROYAL-CANIN.md
 seo:
   title: Fusce sagittis
   description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci'
