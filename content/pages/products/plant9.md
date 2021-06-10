@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '9'
-price: '400.00'
+price: '1,730'
 title: Royal Canin Labrador Puppy 13.63 Kg
 description: >-
   SKU:RLP136 <br> El alimento seco para cachorros labrador de Royal Canin
