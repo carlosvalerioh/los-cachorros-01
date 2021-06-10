@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
+title: GATOS - PERFECT SENSE
 order: 0
 seo:
-  title: ''
+  title: 'GATOS - PERFECT SENSE'
   description: ''
   robots: []
   extra: []
