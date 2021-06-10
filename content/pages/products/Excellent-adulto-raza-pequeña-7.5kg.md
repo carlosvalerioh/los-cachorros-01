@@ -13,7 +13,7 @@ featured: true
 order: 1
 category: content/pages/category/bigplants.md
 seo:
-  title: Nulla suscipit
+  title: Perrito 
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
