@@ -1,5 +1,4 @@
 ---
-layout: product
 id: '50'
 price: '285'
 title: Adulto excellent raza pequeña 3.5 kg
@@ -18,15 +17,9 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-<<<<<<< HEAD
-default_thumbnail_image: images/Excellent adulto raza pequeña.jpg
-default_original_image: images/diligent-tulip.jpg
-category: content/pages/category/bigplants.md
-=======
 default_thumbnail_image: images/Cachorro excellent raza pequeña 3.5 kg.png
 default_original_image: images/parallel-saturn.png
 category: content/pages/category/PERROS-PRO-PLAN.md
->>>>>>> fa4b50556eae715eda4adfc180129fcdca07448f
 ---
 ## Lorem ipsum
 
