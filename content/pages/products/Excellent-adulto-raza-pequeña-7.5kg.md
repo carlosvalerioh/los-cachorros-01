@@ -1,29 +1,45 @@
 ---
-id: lorem-ipsum
-title: Excellent adulto raza pequeña 7.5 kg
-description: >-
-  SKU:PEXARP75 <br> PROTEÍNAS DE ALTA DIGESTIBILIDAD Los perros de tamaño
-  pequeño tienen altos requerimientos proteicos. PURINA Excellent ADULTO POLLO Y
-  ARROZ RAZAS PEQUEÑAS ofrece una fórmula completa que incluye aminoácidos
-  esenciales, inulina, vitaminas, minerales y zeolita, aportando un óptimo
-  balance nutricional y un sabor irresistible.
-price: '535'
-order: 0
-featured: false
-seo:
-  title: Excellent adulto raza pequeña 7.5 kg
-  description: ''
-  robots: []
-  extra: []
-  type: stackbit_page_meta
 layout: product
-default_thumbnail_image: images/panoramic-dolphin.jpg
-default_original_image: images/neat-yam.jpg
-category: category/PERROS-PRO-PLAN.md
+id: '1'
+price: '49.40'
+title: Nulla suscipit
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
+  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
+  tincidunt.
+default_thumbnail_image: images/plant1.jpg
+default_original_image: images/plant1-lg.jpg
+featured: true
+order: 1
+category: content/pages/category/bigplants.md
+seo:
+  title: Nulla suscipit
+  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Nulla suscipit
+      keyName: property
+    - name: 'og:description'
+      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      keyName: property
+    - name: 'og:image'
+      value: images/plant1-lg.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Nulla suscipit
+    - name: 'twitter:description'
+      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+    - name: 'twitter:image'
+      value: images/plant1-lg.jpg
+      relativeUrl: true
 ---
-## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Nulla suscipit
 
-- Lorem ipsum
-- dolor sit amet
+Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.
