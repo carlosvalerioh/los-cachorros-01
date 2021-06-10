@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
+title: PERROS - ROYAL CANIN
 order: 0
 seo:
-  title: ''
+  title: 'PERROS - ROYAL CANIN'
   description: ''
   robots: []
   extra: []
