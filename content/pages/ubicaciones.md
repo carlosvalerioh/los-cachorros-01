@@ -18,7 +18,7 @@ sections:
         image: images/lucrezia-carnelos-0liYTl4dJxk-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Todas las marcas de alimento Desde $180
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: /images/leaf.svg
