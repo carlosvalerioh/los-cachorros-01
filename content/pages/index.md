@@ -39,7 +39,7 @@ sections:
     testimonials:
       - author:
           name: MIGUEL
-          location: 'Colorado, USA'
+          location: 26 AÑOS
         text: >-
           Antes no compraba bultos pequeños de alimento para mi perrito pero se
           terminaban pronto, ahora pido bultos de comida más grandes y me rinden
