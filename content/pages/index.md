@@ -56,7 +56,7 @@ sections:
     title: Encuentra TODAS las marcas y a los mejores precios.
     subtitle: desde $ 180
     image: images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
-    background_image: images/noun_Dog_3587160-5.png
+    background_image: images/noun_Dog_3587160-6.png
     cta:
       title: Discover
       url: /store
