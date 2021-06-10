@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
+title: PERROS - FULL TRUST
 order: 0
 seo:
-  title: ''
+  title: 'PERROS - FULL TRUST'
   description: ''
   robots: []
   extra: []
