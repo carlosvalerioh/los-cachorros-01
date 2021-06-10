@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
+title: DIMOND
 order: 0
 seo:
-  title: ''
+  title: 'DIMOD'
   description: ''
   robots: []
   extra: []
