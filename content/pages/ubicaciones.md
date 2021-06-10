@@ -8,6 +8,9 @@ sections:
     background_image: images/rainy-mint.png
     headline: Los Cachorros
     subtitle: "Todas las marcas de alimentos y alimentos premium, accesorios,\_ juguetes y premios para tus mascotas a los mejores precios. Encuéntranos lo más cerca de ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de México encuentra la más cercana a ti.\n"
+  - section_id: lorem-ipsum
+    type: promotion_section
+    background_image: images/beige-aluminum.jpg
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
@@ -27,9 +30,6 @@ sections:
       url: /store
       style: primary
       arrow: true
-  - section_id: lorem-ipsum
-    type: promotion_section
-    background_image: images/beige-aluminum.jpg
 seo:
   title: About
   description: This is the about page
