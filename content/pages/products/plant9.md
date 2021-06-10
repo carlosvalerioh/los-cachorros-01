@@ -3,7 +3,12 @@ layout: product
 id: '9'
 price: '400.00'
 title: Royal Canin Labrador Puppy 13.63 Kg
-description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
+description: >-
+  SKU:RLP136 <br> El alimento seco para cachorros labrador de Royal Canin
+  significa una nutrición hecha a medida creada solo para su cachorro de raza
+  labrador. Con una mezcla exclusiva de antioxidantes y vitamina E para apoyar
+  el desarrollo de su sistema inmunológico y mantener su cuerpo creciendo fuerte
+  en esta etapa importante.
 default_thumbnail_image: images/Royal Canin Labrador Puppy.jpg
 default_original_image: images/fierce-iron.jpg
 featured: true
