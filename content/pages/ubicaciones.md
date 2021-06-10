@@ -28,12 +28,6 @@ sections:
       style: primary
       arrow: true
   - section_id: lorem-ipsum
-    cta:
-      title: lorem-ipsum
-      url: '#'
-      style: primary
-      arrow: false
-      type: action
     type: promotion_section
 seo:
   title: About
