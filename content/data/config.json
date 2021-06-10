@@ -19,13 +19,13 @@
             "style": "link"
         },
         {
-            "title": "About",
-            "url": "/about",
+            "title": "Ubicaciones",
+            "url": "/ubicaciones",
             "style": "link"
         },
         {
-            "title": "FAQ",
-            "url": "/faq",
+            "title": "informacion",
+            "url": "/informacion",
             "style": "link"
         }
     ],

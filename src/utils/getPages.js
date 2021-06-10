@@ -8,7 +8,7 @@ import _ from 'lodash';
  * @example
  * pages => [
  *   {'__metadata.urlPath': '/'},
- *   {'__metadata.urlPath': '/about'},
+ *   {'__metadata.urlPath': '/ubicaciones'},
  *   {'__metadata.urlPath': '/posts'},
  *   {'__metadata.urlPath': '/posts/hello'},
  *   {'__metadata.urlPath': '/posts/world'}
