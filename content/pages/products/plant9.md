@@ -5,7 +5,7 @@ price: '400.00'
 title: Royal Canin Labrador Puppy 13.63 Kg
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/Royal Canin Labrador Puppy.jpg
-default_original_image: images/plant9-lg.jpg
+default_original_image: images/fierce-iron.jpg
 featured: true
 order: 9
 category: content/pages/category/cactuses.md
