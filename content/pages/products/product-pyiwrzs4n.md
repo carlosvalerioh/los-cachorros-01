@@ -11,7 +11,7 @@ price: '1,600'
 order: 0
 featured: false
 seo:
-  title: ''
+  title: 'Royal Canin Large Adult 5+ 13.6 Kg'
   description: ''
   robots: []
   extra: []
