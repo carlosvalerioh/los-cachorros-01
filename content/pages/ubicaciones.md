@@ -18,7 +18,7 @@ sections:
         image: images/lucrezia-carnelos-0liYTl4dJxk-unsplash.jpg
   - type: promotion_section
     section_id: promotion_section
-    title: Todas las marcas de alimento Desde $180
+    title: Todas las marcas de alimento
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: /images/leaf.svg
