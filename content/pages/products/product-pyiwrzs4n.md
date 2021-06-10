@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 category: content/pages/category/category-qfs6wp7n2.md
+default_original_image: images/Royal Canin Large Adult.jpg
 ---
 ## Lorem ipsum
 
