@@ -38,7 +38,7 @@ sections:
     title: RESEÑAS
     testimonials:
       - author:
-          name: John Dope
+          name: MIGUEL
           location: 'Colorado, USA'
         text: >-
           Antes no compraba bultos pequeños de alimento para mi perrito pero se
