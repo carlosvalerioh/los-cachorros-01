@@ -58,7 +58,7 @@ sections:
     image: images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
     background_image: images/noun_Dog_3587160-6.png
     cta:
-      title: ER V
+      title: AROAH REV
       url: /store
       style: secondary
       arrow: true
