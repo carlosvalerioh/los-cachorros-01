@@ -58,9 +58,9 @@ sections:
     image: images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
     background_image: images/noun_Dog_3587160-6.png
     cta:
-      title: AROAH REV
+      title: VER AHORA
       url: /store
-      style: secondary
+      style: primary
       arrow: true
 seo:
   title: Los Cachorros
