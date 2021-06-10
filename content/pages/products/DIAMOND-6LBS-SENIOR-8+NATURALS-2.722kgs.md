@@ -16,7 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/DIAMOND SENIOR  8+ NATURALS.jpg
-default_original_image: images/mighty-coriander.jpg
+default_original_image: images/famous-parsley.jpg
 category: category/PERROS-DIAMOND.md
 ---
 ## Lorem ipsum
