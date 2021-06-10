@@ -23,7 +23,7 @@ sections:
     title: Conoce todas nuestras ubicaciones
     subtitle: 10 tiendas en la CDMX
     cta:
-      title: lorem-ipsum
+      title: UBICACIONES
       url: '#'
       style: primary
       arrow: false
