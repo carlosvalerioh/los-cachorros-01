@@ -7,9 +7,9 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Los Cachorros
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: >
+      Inicia o abastece tu negocio con nuestros precios de mayoreo. También
+      precios especiales para veterinarias.
   - type: faq_section
     section_id: faq_section
     questions:
