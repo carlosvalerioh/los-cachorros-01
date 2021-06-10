@@ -29,6 +29,7 @@ sections:
       arrow: true
   - section_id: lorem-ipsum
     type: promotion_section
+    background_image: images/beige-aluminum.jpg
 seo:
   title: About
   description: This is the about page
