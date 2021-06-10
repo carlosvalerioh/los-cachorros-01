@@ -11,7 +11,7 @@ sections:
       Inicia o abastece tu negocio con nuestros precios de mayoreo. También
       precios especiales para veterinarias.
   - type: contact_section
-    image: images/promo.jpg
+    image: images/mamaps-3.png
     section_id: contact_section
     address: >-
       Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto, Alc.
