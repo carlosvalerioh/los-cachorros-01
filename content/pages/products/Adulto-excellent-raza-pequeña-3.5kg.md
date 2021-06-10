@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/Cachorro excellent raza pequeña 3.5 kg.png
-default_original_image: images/diligent-tulip.jpg
+default_original_image: images/parallel-saturn.png
 category: content/pages/category/PERROS-PRO-PLAN.md
 ---
 ## Lorem ipsum
