@@ -63,7 +63,7 @@ sections:
       Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto, Alc.
       Iztapalapa, CDMX C.P. 09040
     phone: 'Tel: 5556947398'
-    email: lorem-ipsum
+    email: 'Cel: 5584787997'
     mapUrl: lorem-ipsum
     type: contact_section
     image: images/mamaps-2.png
