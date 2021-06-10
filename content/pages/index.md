@@ -64,6 +64,7 @@ sections:
     email: lorem-ipsum
     mapUrl: lorem-ipsum
     type: contact_section
+    image: images/mamaps-2.png
 seo:
   title: Los Cachorros
   description: The preview of the Planty theme
