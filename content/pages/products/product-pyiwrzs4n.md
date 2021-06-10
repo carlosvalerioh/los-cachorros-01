@@ -12,7 +12,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-category: content/pages/category/GATOS-MININO.md
 ---
 ## Lorem ipsum
 
