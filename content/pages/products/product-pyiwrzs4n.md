@@ -12,7 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-category: content/pages/category/category-qfs6wp7n2.md
+category: content/pages/category/PERROS-ROYAL-CANIN.md
 default_original_image: images/Royal Canin Large Adult.jpg
 default_thumbnail_image: images/marvelous-robin.jpg
 ---
