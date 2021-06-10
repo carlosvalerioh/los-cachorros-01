@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
+title: PERROS - NUPEC
 order: 0
 seo:
-  title: ''
+  title: 'PERROS-NUPEC'
   description: ''
   robots: []
   extra: []
