@@ -60,7 +60,7 @@ sections:
     cta:
       title: VER AHORA
       url: /store
-      style: secondary
+      style: primary
       arrow: true
 seo:
   title: Los Cachorros
