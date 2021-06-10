@@ -31,6 +31,7 @@ sections:
       - content/pages/products/product-pyiwrzs4n.md
       - content/pages/products/product-mx6iieg2q.md
       - content/pages/products/product-9zfqgp1op.md
+      - content/pages/products/product-m7k3kdn28.md
   - type: testimonials_section
     section_id: testimonials_section
     title: RESEÑAS
