@@ -23,7 +23,7 @@ sections:
     image: images/karsten-winegeart-pQVecS8pBNY-unsplash.jpg
     background_image: images/spectacular-rosemary.png
     cta:
-      title: rI
+      title: ' IR AL CATÁLOGO'
       url: /store
       style: primary
       arrow: true
