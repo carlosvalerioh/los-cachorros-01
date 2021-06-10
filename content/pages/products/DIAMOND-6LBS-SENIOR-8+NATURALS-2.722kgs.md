@@ -17,7 +17,7 @@ seo:
 layout: product
 default_thumbnail_image: images/DIAMOND SENIOR  8+ NATURALS.jpg
 default_original_image: images/famous-parsley.jpg
-category: category/PERROS-DIAMOND.md
+category: content/pages/category/GATOS-DIAMOND.md
 ---
 ## Lorem ipsum
 
