@@ -47,6 +47,15 @@ sections:
           Me gusta encontrar todos los tipos de alimentos y de mejores marcas a
           un mejor precio. Así mi mascota come mejor alimento y es más accesible
           para mi
+  - section_id: lorem-ipsum
+    address: >-
+      Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto, Alc.
+      Iztapalapa, CDMX C.P. 09040
+    phone: 'Tel: 5556947398'
+    email: 'Cel: 5584787997'
+    mapUrl: lorem-ipsum
+    type: contact_section
+    image: images/mamaps-2.png
   - type: promotion_section
     section_id: promotion_section
     title: Encuentra TODAS las marcas y a los mejores precios.
@@ -58,15 +67,6 @@ sections:
       url: /store
       style: primary
       arrow: true
-  - section_id: lorem-ipsum
-    address: >-
-      Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto, Alc.
-      Iztapalapa, CDMX C.P. 09040
-    phone: 'Tel: 5556947398'
-    email: 'Cel: 5584787997'
-    mapUrl: lorem-ipsum
-    type: contact_section
-    image: images/mamaps-2.png
 seo:
   title: Los Cachorros
   description: The preview of the Planty theme
