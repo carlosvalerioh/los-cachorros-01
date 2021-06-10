@@ -1,5 +1,7 @@
 ---
-id: lorem-ipsum
+layout: product
+id: '50'
+price: '285'
 title: Adulto excellent raza pequeña 3.5 kg
 description: >-
   lorem-ipsuSKU:PEXARP35 <br> PROTEÍNAS DE ALTA DIGESTIBILIDAD Los perros de
@@ -7,9 +9,8 @@ description: >-
   POLLO Y ARROZ RAZAS PEQUEÑAS ofrece una fórmula completa que incluye
   aminoácidos esenciales, inulina, vitaminas, minerales y zeolita, aportando un
   óptimo balance nutricional y un sabor irresistible.
-price: '285'
 order: 0
-featured: false
+featured: 
 seo:
   title: Adulto excellent raza pequeña 3.5 kg
   description: ''
@@ -19,7 +20,7 @@ seo:
 layout: product
 default_thumbnail_image: images/Excellent adulto raza pequeña.jpg
 default_original_image: images/diligent-tulip.jpg
-category: category/PERROS-PRO-PLAN.md
+category: content/pages/category/bigplants.md
 ---
 ## Lorem ipsum
 
