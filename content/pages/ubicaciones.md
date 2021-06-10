@@ -28,7 +28,6 @@ sections:
       style: primary
       arrow: true
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
