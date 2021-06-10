@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
+title: PERROS - HILLS
 order: 0
 seo:
-  title: ''
+  title: 'PERROS - HILLS'
   description: ''
   robots: []
   extra: []
