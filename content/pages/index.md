@@ -59,7 +59,9 @@ sections:
       style: primary
       arrow: true
   - section_id: lorem-ipsum
-    address: lorem-ipsum
+    address: >-
+      Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto, Alc.
+      Iztapalapa, CDMX C.P. 09040
     phone: lorem-ipsum
     email: lorem-ipsum
     mapUrl: lorem-ipsum
