@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: GATOS - DIAMOND
 layout: category
 order: 1
 seo:
