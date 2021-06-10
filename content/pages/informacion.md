@@ -30,6 +30,7 @@ sections:
       type: action
     type: promotion_section
     image: images/karsten-winegeart-5PVXkqt2s9k-unsplash.jpg
+    background_image: images/violet-apple.png
 seo:
   title: FAQ
   description: This is the faq page
