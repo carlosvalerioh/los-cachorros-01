@@ -20,7 +20,7 @@ sections:
     section_id: promotion_section
     title: Todas las marcas de alimento
     subtitle: Desde $180
-    image: images/promo.jpg
+    image: images/karsten-winegeart-pQVecS8pBNY-unsplash.jpg
     background_image: /images/leaf.svg
     cta:
       title: Discover
