@@ -53,7 +53,7 @@ sections:
       Iztapalapa, CDMX C.P. 09040
     phone: 'Tel: 5556947398'
     email: 'Cel: 5584787997'
-    mapUrl: lorem-ipsum
+    mapUrl: 'https://goo.gl/maps/1pKXedEw85Bh7dxs7'
     type: contact_section
     image: images/mamaps-2.png
   - type: promotion_section
