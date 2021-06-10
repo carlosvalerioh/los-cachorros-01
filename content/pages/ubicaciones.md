@@ -12,15 +12,7 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: NUESTRAS UBICACIONES
-        description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+        description: "# **EL CACHORRIN**\n\nAv Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n*   Tel: 5556947398\n\n<!---->\n\n*   Cel: 5584787997\n\n## &#xA;**GRAND PUPPY**\n\nAv. Frutas y Legumbres, Caracol 1 G-H,\_ Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n*   Tel: 5570902496\n\n<!---->\n\n*   Cel: 5624418690\n\n## &#xA;**CACHORROS**\n\nAv Frutas y Legumbres Edif 4 Local 15, Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n*   Tel: 5556001586\n\n## &#xA;**CACHORRITOS**\n\nAv Frutas y Legumbres Edif 3 Local 1 y 2, Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n*   Tel: 5556949266\n\n*   Cel: 5539598129\n\n## &#xA;**GRAND PUPPY ROMA**\n\nCalle Medellín No. 209, Col. Roma Sur\n\nAlc. Cuauhtémoc, CDMX. C.P. 06760\n\nTel: 5572625500\n\nCel: 5517789125\n"
         image: images/nan_talk.jpg
       - title: We think plants are the future
         description: >-
