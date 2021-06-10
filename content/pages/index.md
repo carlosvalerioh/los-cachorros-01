@@ -28,6 +28,7 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
+      - content/pages/products/product-pyiwrzs4n.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
