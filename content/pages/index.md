@@ -58,7 +58,7 @@ sections:
     image: images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
     background_image: images/noun_Dog_3587160-6.png
     cta:
-      title: Discover
+      title: ER V
       url: /store
       style: secondary
       arrow: true
