@@ -22,7 +22,7 @@ sections:
     cta:
       title: UBICACIONES
       url: /store
-      style: secondary
+      style: primary
       arrow: true
 seo:
   title: Store
