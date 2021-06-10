@@ -14,12 +14,7 @@ sections:
       - title: NUESTRAS UBICACIONES
         description: "# **EL CACHORRIN**\n\nAv Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n*   Tel: 5556947398\n\n<!---->\n\n*   Cel: 5584787997\n\n## &#xA;**GRAND PUPPY**\n\nAv. Frutas y Legumbres, Caracol 1 G-H,\_ Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n*   Tel: 5570902496\n\n<!---->\n\n*   Cel: 5624418690\n\n## &#xA;**CACHORROS**\n\nAv Frutas y Legumbres Edif 4 Local 15, Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n*   Tel: 5556001586\n\n## &#xA;**CACHORRITOS**\n\nAv Frutas y Legumbres Edif 3 Local 1 y 2, Central de Abasto,\_\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n*   Tel: 5556949266\n\n*   Cel: 5539598129\n\n## &#xA;**GRAND PUPPY ROMA**\n\nCalle Medellín No. 209, Col. Roma Sur\n\nAlc. Cuauhtémoc, CDMX. C.P. 06760\n\nTel: 5572625500\n\nCel: 5517789125\n"
         image: images/nan_talk.jpg
-      - description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+      - description: "# **THE GIANT DOG**\n\nAV SUR 16 No.\_ 80, Esq. Oriente 243 – A\n\nCol. Agrícola Oriental. CDMX, C.P. 08500\n\nTel: 5541683632\n\nCel: 5539261478\n\n# &#xA;**GRAND DOG ORIENTAL**\n\nSur 24 No. 412 esq. Ote. 253 Col. Agrícola Oriental Alc. Iztacalco, 08500 CDMX\n\n*   Tel : 5568403891\n\n<!---->\n\n*   Cel: 5520835339\n\n##### &#xA;**CACHORRITOS ORIENTAL**\n\nSur 24 No. 31, Col. Agrícola Oriental Alc. Iztacalco, 08500 CDMX\n\n*   Tel : 5588499036\n\n<!---->\n\n*   Cel: 5548060687\n\n##### &#xA;**GRAND PUPPY ORIENTAL**\n\nAV SUR 16 No.\_ 449 Local B, Entre calle 2 de Sur 16 y Retorno 3 de Sur 16\n\nCol. Agrícola Oriental, Alc. Iztacalco, CDMX, C.P. 08500\n\n*   Tel: 5587557387\n\n<!---->\n\n*   Cel: 5539241690\n\n##### &#xA;**UNIDAD RASTRO**\n\nInterior del Mercado Unidad Rastro Locales 92 - 92 – 94.\n\nEstaño 350, Col. Felipe Ángeles, Alc. Venustiano Carranza, C.P. 15310 CDMX\n\n*   Tel: 5588793527\n\n<!---->\n\n*   Cel: 5535062116\n"
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
