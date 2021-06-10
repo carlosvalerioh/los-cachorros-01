@@ -18,7 +18,7 @@ sections:
       Iztapalapa, CDMX C.P. 09040
     phone: 'Tel: 5556947398'
     email: 'Cel: 5584787997'
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/1pKXedEw85Bh7dxs7'
 seo:
   title: FAQ
   description: This is the faq page
