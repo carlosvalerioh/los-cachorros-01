@@ -21,7 +21,7 @@ sections:
     title: Todas las marcas de alimento
     subtitle: Desde $180
     image: images/karsten-winegeart-pQVecS8pBNY-unsplash.jpg
-    background_image: /images/leaf.svg
+    background_image: images/spectacular-rosemary.png
     cta:
       title: Discover
       url: /store
