@@ -1,8 +1,8 @@
 ---
-title: lorem-ipsum
+title: GATOS - NUPEC
 order: 0
 seo:
-  title: ''
+  title: 'GATOS - NUPEC'
   description: ''
   robots: []
   extra: []
